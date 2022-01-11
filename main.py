@@ -1,7 +1,3 @@
-#930311720747024415 APPLICATION ID
-#OTMwMzExNzIwNzQ3MDI0NDE1.Yd0CTg.OAl3pOpyp9jURtkB_LaKj__dtGE TOKEN
-#429497247808 PERMISSIONS INTEGER
-
 import random
 import discord
 import asyncio
@@ -54,5 +50,5 @@ async def card(ctx):
     await ctx.send(embed = embed)
     
 
-bot.run('OTMwMzExNzIwNzQ3MDI0NDE1.Yd0CTg.OAl3pOpyp9jURtkB_LaKj__dtGE')
+bot.run('token')
  
